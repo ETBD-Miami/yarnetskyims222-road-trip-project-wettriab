@@ -55,3 +55,13 @@ h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-shadow: 10px 10px 10px 10px salmon;
 }
+
+.festivals{
+    background-color: orange;
+    color:black;
+    padding: 5px 5px 15px 5px;
+    margin: 5px 10px 15px 10px;
+    border: 10px groove white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 10px 10px 10px 10px salmon;
+}

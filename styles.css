@@ -1,0 +1,30 @@
+h1{
+    background-color: darkorange;
+    border: 10px dotted white;
+    margin:10px 15px 10px 15px;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: black;
+}
+
+h2{
+    background-color:lightsalmon;
+    border: 10px dotted white;
+    margin:10px 15px 10px 15px;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+
+}
+
+div{
+    background-color: black;
+    color:orange;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 10px 5px 10px;
+    border: 8px groove white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

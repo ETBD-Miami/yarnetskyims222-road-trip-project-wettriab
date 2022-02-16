@@ -19,7 +19,7 @@ h2{
 
 }
 
-div{
+.details{
     background-color: black;
     color:orange;
     padding: 5px 5px 5px 5px;
@@ -28,3 +28,10 @@ div{
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
+
+.container{
+    width: 800px;
+    margin-right:auto;
+    margin-left:auto;
+}
+

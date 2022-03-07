@@ -41,7 +41,7 @@ h2{
 .breakfast{
     background-color: orange;
     color:black;
-    padding: 5px 5px 15x 5px;
+    padding: 5px 5px 15px 5px;
     margin: 5px 10px 15px 10px;
     border: 10px groove white;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -51,7 +51,7 @@ h2{
 .lunch-dinner{
     background-color: orange;
     color:black;
-    padding: 5px 5px 15px 5px;
+    padding: 10px 10px 20px 10px;
     margin: 5px 10px 15px 10px;
     border: 10px groove white;
     font-family: Georgia, 'Times New Roman', Times, serif;

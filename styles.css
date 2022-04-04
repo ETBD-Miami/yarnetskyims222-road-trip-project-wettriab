@@ -240,5 +240,19 @@ nav ul li a:hover {
   to {opacity: 1}
 }
   /* -------------------- */
+a:link {
+color: black
 
-  .link:hover { color: white; }
+}
+
+a:hover {
+  color: white;
+}
+
+.text{
+  background-color: black;
+}
+
+.body{
+  background-image: url("https://www.jaredweberphotography.com/images/xl/cincinnati-ohio-skyline-at-night.jpg");
+}
